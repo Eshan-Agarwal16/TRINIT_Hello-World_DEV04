@@ -1,9 +1,9 @@
 # TRINIT_Hello-World_ML04
 Motion Detection<br>
-Motion Tracking
-Email Alert
-Sound Alert
-Motion Detection enabled video recording
-User-Friendly GUI
-
+Motion Tracking<br>
+Email Alert<br>
+Sound Alert<br>
+Motion Detection enabled video recording<br>
+User-Friendly GUI<br>
+<br>
 pip install playsound
