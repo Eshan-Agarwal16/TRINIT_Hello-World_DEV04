@@ -22,7 +22,7 @@
 
 <li>Tkinter</li> 
 
-<li>Playsound<li> 
+<li>Playsound</li> 
 
 Cv2 
 <h3>Introduction</h3>
