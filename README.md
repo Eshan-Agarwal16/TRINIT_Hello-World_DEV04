@@ -2,8 +2,12 @@
 <br>Feature List:
 <li>Motion Detection</li>
 <li>Motion Tracking</li>
-<li>Email Alert</li>
+<li>Face Detection</li>
+<li>Face Capture</li>
+<li>Email Alert with Face Detection Data</li>
 <li>Sound Alert</li>
 <li>Motion Detection enabled video recording</li>
 <li>User-Friendly GUI</li>
+<li>Cloud Video backup</li>
+<li>User Authentication</li><br>
 pip install playsound
