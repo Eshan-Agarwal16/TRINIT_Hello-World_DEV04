@@ -6,8 +6,11 @@
 <li>Face Capture</li>
 <li>Email Alert with Face Detection Data</li>
 <li>Sound Alert</li>
-<li>Motion Detection enabled video recording</li>
+<li>Motion enabled video recording</li>
 <li>User-Friendly GUI</li>
 <li>Cloud Video backup</li>
 <li>User Authentication</li><br>
+
+<h3>Introduction</h3>
+
 pip install playsound
