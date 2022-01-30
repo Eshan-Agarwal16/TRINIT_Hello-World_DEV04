@@ -18,7 +18,7 @@
 
 <h3>Python Modules Used:</h3> 
 
-<li>Pillow<li>
+<li>Pillow</li>
 
 <li>Tkinter</li> 
 
