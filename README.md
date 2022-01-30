@@ -38,7 +38,6 @@ CCTVs have been around for over 20 years. Traditionally security agents and oper
 <li>The CCTV also recognises a face and sends an email of best possible picture of the face detected.</li> 
 <li>The CCTV also sends an immediate email alert once motion is detected. </li>
 
-pip install playsound
 
 <h3>Video Recording</h3>
 <link>https://drive.google.com/file/d/1hRCdTRHYLd5vBWp74UnZ9xkAptKEofHD/view?usp=sharing</link>
